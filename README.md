@@ -1,16 +1,11 @@
-## Hi there 👋
+## 👋 Olá, Bem-vindo(a)!
 
-<!--
-**odouglasassis/odouglasassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👦 Eu sou o Douglas, e conheci o universo dos Dados por volta dos trinta anos.  
+📚 Acredito que, apesar de começar meus estudos mais tarde, posso apresentar vantagens em maturidade e softskills.  
+🎓 Sou bacharel em Engenharia civil, com bom aproveitamento durante o curso em matérias relacionadas à cálculos matemáticos.  
+💻 No momento estou focado nos fundamentos. Lógica de programação, Algoritmos, Linguagem Python e Power BI.  
+❤️ Eu me sinto realmente bem estudando Análise de Dados. Meu objetivo é poder viver desta área promissora.  
+🎯 Apesar de ainda estar no início, estou focado em aprender e aplicar meus conhecimentos para solucionar problemas.  
+## 😃 Foi um prazer te receber por aqui, volte mais vezes!
+>
+📧 Entre em contato quando quiser: douglasoassis@icloud.com
